@@ -31,6 +31,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
+
+- [2026-03-28-no-technical-input-provided](ai-agent/2026-03-28-no-technical-input-provided.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
