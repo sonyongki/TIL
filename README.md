@@ -24,6 +24,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-28-파이썬-리스트-컴프리헨션과-filter-가독성-대-성능](python/2026-03-28-파이썬-리스트-컴프리헨션과-filter-가독성-대-성능.md)
+
 - [2026-03-28-Python-List-Comprehension-and-Filter-Readability-vs-Performance](python/2026-03-28-Python-List-Comprehension-and-Filter-Readability-vs-Performance.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
